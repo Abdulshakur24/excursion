@@ -70,3 +70,12 @@ section a {
   font-size: 1rem;
   margin: 2rem 0;
 }
+
+/* Footer */
+footer {
+  margin: 1rem;
+  width: 97%;
+  display: flex;
+  justify-content: flex-end;
+  color: gray;
+}
